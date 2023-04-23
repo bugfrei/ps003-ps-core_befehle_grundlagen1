@@ -1,23 +1,17 @@
-# Titel...
+# PowerShell Core - Befehle Grundlagen 1
 
-Languages:
-- [english](./readme.md)
-- [deutsch](./readme_de.md)
+Symbolbedeutung:<br />
+👉 Benutzeraktivität<br />
+⚡ Schneller Weg
 
-Symbolic meaning:<br />
-👉 User activity here<br />
-⚡ Fast way
+## Inhaltsverzeichnis
 
-## Table of contents
+- [Erste Befehle, Übungen und Erklärungen](exercises/01/readme.md)
 
-## Clone this Repository
+## Das Repository klonen
 
-See [here](./clone-this-repo.md).
+Siehe [hier](./clone-this-repo_de.md).
 
-## Other usefull tutorials
+# Zurück zu...
 
-- [The basics of PowerShell](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interactiv PS Github Tutorial, german only](https://github.com/bugfrei/Git-Tutorial)
-
-More to come.
-
+- [Alle Themenbereichen](https://github.com/bugfrei/itea.git)
